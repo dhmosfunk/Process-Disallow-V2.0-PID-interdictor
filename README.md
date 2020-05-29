@@ -5,8 +5,6 @@ You want to ban some programs? the process disallow V2.0 is here and open source
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
 
 
   The purpose of this tool is to ban pids just put the name of PID into program in `line 12` in main and run it!.
