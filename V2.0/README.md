@@ -28,4 +28,4 @@ Download <a href="http://www.mediafire.com/file/m8h3ftrm0kabe63/V2.0_Dev-C%252B%
 
 <br/>
 <br/>
-Check the checkbox labeled, "Add the following commands when calling the compiler" And add in the text entry box, "-std=c++11"
+Check the checkbox labeled, "Add the following commands when calling the compiler" And add in the text entry box, <b>"-std=c++11"</b>
