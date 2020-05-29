@@ -25,3 +25,7 @@ You want to ban some programs? the process disallow V2.0 is here and open source
 
 <br/>
 Download <a href="http://www.mediafire.com/file/m8h3ftrm0kabe63/V2.0_Dev-C%252B%252B_Project.rar/file">V2.0 Dev-C++ Project.zip</a> Process Disallow Dev-C++ Project..
+
+<br/>
+<br/>
+Check the checkbox labeled, "Add the following commands when calling the compiler" And add in the text entry box, "-std=c++11"
