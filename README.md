@@ -3,6 +3,10 @@ You want to ban some programs? the process disallow V2.0 is here and open source
 
 
 
+
+
+
+
   The purpose of this tool is to ban pids just put the name of PID into program in `line 12` in main and run it!.
   
   `vector <string> banned_pids = { "example.exe","example.exe","example.exe","example.exe","example.exe" };`
